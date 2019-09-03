@@ -1,0 +1,42 @@
+/* input{
+
+
+}
+
+p{
+
+
+
+} */
+
+
+
+.button{
+  width:70px;
+  background-color: yellow;
+  padding:10px;
+
+}
+.form{
+  text-align: center;
+  margin:10px;
+}
+
+.form :hover{
+  opacity:0.6;
+}
+
+.gender{
+
+
+}
+
+
+
+.square{
+  width:480px;
+}
+
+/* .sentence{
+  width:150px;
+} */
